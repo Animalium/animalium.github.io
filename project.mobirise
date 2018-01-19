@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Animalium",
-    "currentPage": "index.html",
+    "currentPage": "loteer.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -49,7 +49,7 @@
     "sitemapSwitcher": "on",
     "versionFirst": "4.6.1",
     "uniqCompNum": 109,
-    "versionPublish": "4.6.1",
+    "versionPublish": "4.5.4",
     "screenshot": "screenshot.png"
   },
   "pages": {
